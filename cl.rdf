@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xml:lang="ja">
+<channel rdf:about="http://cl.sappari.org/cl.rdf">
+ <title>ばらをのChangeLog</title>
+ <link>http://cl.sappari.org/</link>
+ <description>メモ＋日記</description>
+ <dc:language>ja</dc:language>
+ <dc:date>2010-04-16T22:53:57+09:00</dc:date>
+ <admin:generatorAgent rdf:resource="http://chalow.org/?v=1.0"/>
+ <items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cl.sappari.org/2010-04-16-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2010-03-15-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2009-10-12-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2009-09-08-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2009-09-03-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2009-09-01-1.html"/>
+  <rdf:li rdf:resource="http://cl.sappari.org/2009-08-29-1.html"/>
+ </rdf:Seq>
+ </items>
+</channel>
+
+<item rdf:about="http://cl.sappari.org/2010-04-16-1.html">
+ <title>Webのダラ見を防ぐChromeの拡張機能：SiteBlock</title>
+ <link>http://cl.sappari.org/2010-04-16-1.html</link>
+ <description>
+  以前、ついついWebをダラ見してしまうのを防止するための、LeechBlockというFirefox拡張を紹介しました。LeechBlockで「Twitter中毒」「はてブ中毒」「mixi中毒」を克服これの効果はかなり強力で良かったのだけど、最近はもっぱらGoogle Chromeを使うようになったので、今はこれの代わりとしてSiteBlockというChrome用の拡張機能を使っています。LeechBlockほど細かい設定はできないけど、とりあえず禁止URLと許可URLを手軽に指定できるので、自分の目的には十分です。むしろLeechBlockより簡単で使いやすいかと。どうしても集中しないといけないときはかなり有効です。すぐに関係ないWebページを開いては現実逃避しがちなので。
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2010-04-16T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[以前、ついついWebをダラ見してしまうのを防止するための、<a href="https://addons.mozilla.org/ja/firefox/addon/4476">LeechBlock</a>というFirefox拡張を紹介しました。<br>
+<a href="http://d.hatena.ne.jp/kambara/20090113/1231877242">LeechBlockで「Twitter中毒」「はてブ中毒」「mixi中毒」を克服</a><br>
+<br>
+これの効果はかなり強力で良かったのだけど、最近はもっぱらGoogle Chromeを使うようになったので、今はこれの代わりとして<a href="https://chrome.google.com/extensions/detail/pfglnpdpgmecffbejlfgpnebopinlclj">SiteBlock</a>というChrome用の拡張機能を使っています。<br>
+LeechBlockほど細かい設定はできないけど、とりあえず禁止URLと許可URLを手軽に指定できるので、自分の目的には十分です。むしろLeechBlockより簡単で使いやすいかと。<br>
+<br>
+どうしても集中しないといけないときはかなり有効です。すぐに関係ないWebページを開いては現実逃避しがちなので。<br>
+]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2010-03-15-1.html">
+ <title>大阪なう</title>
+ <link>http://cl.sappari.org/2010-03-15-1.html</link>
+ <description>
+  WI2研究会参加のため大阪に来ています。[osaka]今回はTwitter特集ということで、Twitterに関する発表が集まっていて楽しそう。
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2010-03-15T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[<a href="http://www.ieice.org/~wi2/">WI2研究会</a>参加のため大阪に来ています。<br>
+<img src="http://lh4.ggpht.com/_o2w50VUj0K0/S6Y8FLHRN8I/AAAAAAAAF4Y/z1hTcCe-2a8/s400/P3162940.JPG" alt="osaka"><br>
+<br>
+今回はTwitter特集ということで、Twitterに関する発表が集まっていて楽しそう。<br>
+]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2009-10-12-1.html">
+ <title>SkyMall.comで見つけたおもしろガジェット</title>
+ <link>http://cl.sappari.org/2009-10-12-1.html</link>
+ <description>
+  http://www.skymall.com/デルタ航空の便で見つけた機内誌の「SkyMall」に面白い（変な・笑える）ガジェットが大量に載っていました。日本の新幹線とかでも時々アイデアグッズがたくさん載った雑誌が置いてありますよね。あれのアメリカ版みたいなカタログ雑誌。日本に戻ってSkyMallのサイトを調べてみたところ、どうやら日本からでも買えるらしい（たぶん買わないけど）。というわけでいくつか気になったものをピックアップ。Telekinetic Obstacle Course脳波でボールを浮かせてコントロールするゲーム。かっこいい！[telekinetic]Voice Interactive Alarm Clock音声対話で操作できる目覚まし時計。&quot;What is the date?&quot;とか。[clock]Digital Window Thermometer窓の外の気温が分かる温度計。[thermometer]Progression Wake-Up Clock明かりやアロマで優しく徐々に起こしてくれる目覚まし。[clock]Underwater Cell Phone System「水中で電話に出たいと思ったことはありませんか？」（という売り文句ｗ）[underwater]Electronic Listening Device300feet (91m) 先の声が聞こえる指向性マイク。[listening]PostureProなんでもアーロンチェアもどき。実物に座ってみたらけっこう良かった。[posturepro]SkyRest Travel Pillow機内用枕。うつぶせに寝られる。[pillow]Relax 'N Nap Pillowsうつぶせ用枕。もしかしたらほ乳類はうつぶせに寝る方が自然なのかも？[pillow]Largest Crossword Puzzle超巨大クロスワード。[puzzle][puzzle]Worlds Largest Write On Map超巨大地図。[map]
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2009-10-12T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[<a href="http://www.skymall.com/">http://www.skymall.com/</a><br>
+デルタ航空の便で見つけた機内誌の「SkyMall」に面白い（変な・笑える）ガジェットが大量に載っていました。日本の新幹線とかでも時々アイデアグッズがたくさん載った雑誌が置いてありますよね。あれのアメリカ版みたいなカタログ雑誌。<br>
+日本に戻って<a href="http://www.skymall.com/">SkyMallのサイト</a>を調べてみたところ、どうやら日本からでも買えるらしい（たぶん買わないけど）。<br>
+というわけでいくつか気になったものをピックアップ。<br>
+<div class="readmore"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102962692">Telekinetic Obstacle Course</a><br>
+脳波でボールを浮かせてコントロールするゲーム。かっこいい！<br>
+<img src="http://www.skymall.com/images/products/HAM/20090826/102962692d.jpg" alt="telekinetic"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102875584">Voice Interactive Alarm Clock</a><br>
+音声対話で操作できる目覚まし時計。"What is the date?"とか。<br>
+<img src="http://www.skymall.com/images/products/HAM/102875584d.jpg" alt="clock"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102967031">Digital Window Thermometer</a><br>
+窓の外の気温が分かる温度計。<br>
+<img src="http://www.skymall.com/images/products/IMP/20090828/102967031d.jpg" alt="thermometer"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102092075&amp;c=10230">Progression Wake-Up Clock</a><br>
+明かりやアロマで優しく徐々に起こしてくれる目覚まし。<br>
+<img src="http://www.skymall.com/images/products/HAM/102092075d.jpg" alt="clock"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=203070087&amp;c=">Underwater Cell Phone System</a><br>
+「水中で電話に出たいと思ったことはありませんか？」（という売り文句ｗ）<br>
+<img src="http://www.skymall.com/images/products/REE/20090915/203070087d.jpg" alt="underwater"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=69668336">Electronic Listening Device</a><br>
+300feet (91m) 先の声が聞こえる指向性マイク。<br>
+<img src="http://www.skymall.com/images/products/GDA/69668336d.jpg" alt="listening"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102934160">PosturePro</a><br>
+なんでもアーロンチェアもどき。実物に座ってみたらけっこう良かった。<br>
+<img src="http://www.skymall.com/images/products/ASI/20090612/102934160d.jpg" alt="posturepro"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=96981577&amp;c=">SkyRest Travel Pillow</a><br>
+機内用枕。うつぶせに寝られる。<br>
+<img src="http://www.skymall.com/images/products/DCE/96981577d.jpg" alt="pillow"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102849581&amp;c=">Relax 'N Nap Pillows</a><br>
+うつぶせ用枕。もしかしたらほ乳類はうつぶせに寝る方が自然なのかも？<br>
+<img src="http://www.skymall.com/images/products/TGG/102849581d.jpg" alt="pillow"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=102718048">Largest Crossword Puzzle</a><br>
+超巨大クロスワード。<br>
+<img src="http://www.skymall.com/images/products/HAM/102718048d.jpg" alt="puzzle"><br>
+<img src="http://www.skymall.com/images/products/5a/1f/06/102718048gx1.jpg" alt="puzzle"><br>
+<br>
+<a href="http://www.skymall.com/shopping/detail.htm?pid=7317593&amp;c=">Worlds Largest Write On Map</a><br>
+超巨大地図。<br>
+<img src="http://www.skymall.com/images/products/HAM/7317593d.jpg" alt="map"><br>
+</div>]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2009-09-08-1.html">
+ <title>食べ物をおいしそうに撮りたい</title>
+ <link>http://cl.sappari.org/2009-09-08-1.html</link>
+ <description>
+  どうするといいんだろう。試行錯誤中。[����]今のところ意識しているのは、皿全体を写そうとせず近めに寄ることと、カメラの設定で鮮やかに写るようにするぐらい。あとは「照り」があるとおいしそうに見える。[����][����][����]
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2009-09-08T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[どうするといいんだろう。試行錯誤中。<br>
+<a href="http://picasaweb.google.co.jp/lh/photo/boZ1_pI0hfiPxiyuVm5Bog?feat=directlink"><img src="http://lh5.ggpht.com/_o2w50VUj0K0/SqeYBGHB_cI/AAAAAAAAE9M/RiVuQbGA-8E/s400/P9070452.JPG" alt="����"></a><br>
+今のところ意識しているのは、皿全体を写そうとせず近めに寄ることと、カメラの設定で鮮やかに写るようにするぐらい。<br>
+あとは「照り」があるとおいしそうに見える。<br>
+<div class="readmore"><br>
+<a href="http://picasaweb.google.co.jp/lh/photo/qABYN5XMvjfi77Xzeh4p2g?feat=directlink"><img src="http://lh4.ggpht.com/_o2w50VUj0K0/SqeYBnbCIpI/AAAAAAAAE9Q/r6n21htOFYI/s400/P9080508.JPG" alt="����"></a><br>
+<br>
+<a href="http://picasaweb.google.co.jp/lh/photo/ChpJFbDjQAU2aavzlrBarw?feat=directlink"><img src="http://lh6.ggpht.com/_o2w50VUj0K0/SqeX_b_RuwI/AAAAAAAAE9E/uJOSfEWek08/s400/P9070438.JPG" alt="����"></a><br>
+<br>
+<a href="http://picasaweb.google.co.jp/lh/photo/eVzerMUMWap_bUaQH7gfZQ?feat=directlink"><img src="http://lh5.ggpht.com/_o2w50VUj0K0/SqeaBUFkBzI/AAAAAAAAE9w/POtp3LGy0hk/s400/P9080506.JPG" alt="����"></a><br>
+</div>]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2009-09-03-1.html">
+ <title>言葉を濁さない</title>
+ <link>http://cl.sappari.org/2009-09-03-1.html</link>
+ <description>
+  Wikipedia:言葉を濁さない言葉を濁すとは、曖昧な言い方をし、意見を匿名の情報源（ソース）に基づくものとすることによって、文章に偏見を持ち込んでしまうことです。論文などを書くとき、つい曖昧な言い回しにしてしまうことがあるので、これらの言葉が出てきたときは要注意。いくつか心当たりのあるもの- 「（不特定多数に）……と言われている」- 「……とされる」- 受動態- 入り組んだ文- いくらかの・多くの・大部分の・すべての・わずか- 「など」の多用Wikipedia:避けたい言葉や、Wikipedia:すぐに古くなる表現は使わないも気をつけたい。
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2009-09-03T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[<a href="http://ja.wikipedia.org/wiki/Wikipedia:%E8%A8%80%E8%91%89%E3%82%92%E6%BF%81%E3%81%95%E3%81%AA%E3%81%84">Wikipedia:言葉を濁さない</a><br>
+</p><blockquote>言葉を濁すとは、曖昧な言い方をし、意見を匿名の情報源（ソース）に基づくものとすることによって、文章に偏見を持ち込んでしまうことです。<br>
+</blockquote><p>論文などを書くとき、つい曖昧な言い回しにしてしまうことがあるので、これらの言葉が出てきたときは要注意。<br>
+<br>
+いくつか心当たりのあるもの<br>
+- 「（不特定多数に）……と言われている」<br>
+- 「……とされる」<br>
+- 受動態<br>
+- 入り組んだ文<br>
+- いくらかの・多くの・大部分の・すべての・わずか<br>
+- 「など」の多用<br>
+<br>
+<a href="http://ja.wikipedia.org/wiki/Wikipedia:%E9%81%BF%E3%81%91%E3%81%9F%E3%81%84%E8%A8%80%E8%91%89">Wikipedia:避けたい言葉</a>や、<a href="http://ja.wikipedia.org/wiki/Wikipedia:%E3%81%99%E3%81%90%E3%81%AB%E5%8F%A4%E3%81%8F%E3%81%AA%E3%82%8B%E8%A1%A8%E7%8F%BE%E3%81%AF%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84">Wikipedia:すぐに古くなる表現は使わない</a>も気をつけたい。<br>
+]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2009-09-01-1.html">
+ <title>小林茂によるFunnelワークショップ</title>
+ <link>http://cl.sappari.org/2009-09-01-1.html</link>
+ <description>
+  HIS2009で小林茂氏によるFunnelワークショップに参加しました．[workshop]以下，そのときのメモです．ハードウェアプロトタイピング- 長い時間がかかる- 後で変更したくてもできない- デザイナーと建設的な議論をしにくい- 初心者にCやアセンブラは難しいPhysical Computing- Gainer - 2005年 - 自分たちが必要とするツールキット - I/Oモジュールに限定 - ソフトウェア: AS2,3 MAX/MSP, ProcessingGangu Project - Mountain Guitar: 傾きや震え，高さで音が変わる． - ほんとに音が出るエアギターみたいで面白い！ - Jamming Gear: ギアの組み合わせで音を出す - 完成度高い！ - AXISギャラリー作品の作り方- リサーチ - Web, 店舗などでどういうものが求められているかを調査- アイデアスケッチ: たくさん描く．20個． - 描き方を決める．ペンや用紙を決める．インタラクションの部分は赤など． - これはよいかも！ - 細いペンで輪郭を描き，太いペンで強調したいところを描く - インタラクションするところを赤いペンで塗る - グレーで陰を付ける - 色んな人が独自のやり方で描くと評価しづらい- 評価: スケッチを壁に貼る- ダーティプロトタイプ: 粘土．1/1サイズ．すぐにできる材料．アイデアをふくらませる．- ビデオプロトタイプ: 実際に作ったらほんとに面白いのかシミュレーション- Gainerワークショップ- アイデアスケッチ: 実現できるかは考えない- ハードウェアスケッチ: ケーブルとかごちゃごちゃしている．技術的にできるか調査．- プロトタイプ: きっちり作る．無線化，塗装など．- Bill Buxtonの「Design Funnel」 - スケッチから徐々にプロトタイプへスケッチとプロトタイプの違い- スケッチは探求，質問，提案，曖昧- 素早く，タイムリー，やすく，捨てられる材料，たくさん，必要最小限，提案と探索 - ペーパープロトタイプ- 段ボール，スタイロフォーム，アクリルFunnel- 全てのユーザーの要求に応える単一のツールキットはない- 2007年にはArduinoが広く使われていた - GainerとArduinoなどをつなぐ．XBee, FIO．- 「prototyping funnel」- センサーの言葉をGUIプログラミングの言葉に - 様々なフィルタ- Funnel serverがハードウェアを抽象化- AS3, Processing, Ruby (Rubyはあまりメンテしていない)大量生産を前提としないプロトタイピング- ワンオフ: 一品もの - User Generated Device (UGD)- Technology Skinning - Microsoft Research - Nicolas Villar - ジャンク市のラジオの中身を自分の欲しい音楽プレーヤに改造 - Dragonfly- メーカーはコンポーネントを提供- どうやってオープンにするのか - HTML5が参考になるかも: サーバとUIの分離pinFunnel- クラスを使わない- ProcessingをベースにカスタマイズしたIDE- 関数型だけボリュームimport processing.funnel.*;registerIOmodule(GAINER);potPin = namesAnalogpin(0);value(potPin);光センサでウィンドウの色を変える[光センサ]スケーリングを利用setFilter(potPin);// 0~1の入力を0-255に変換するscaler(0, 1.0, 0, 255.0, LINEAR, true);SetPointフィルタsetPoint(0.3, 0.1);閾値0.3に0.1の不感帯を設定するLシステムの木をセンサで動かすデモphysical x wonderflhttp://wonderfl.net/- wonderful - カヤック - オンラインのIDEでFlash作成http://physical.wonderfl.net/index_en.html- wonderflのFlashをfunnelで作った物理デバイスで操作 - ローカルにFunnel serverを立ち上げFlashと通信 - 動いている様子がすぐ分かるようにサンプルビデオも投稿できる - マウスを前提に作られているプログラムをセンサ用に書きかえるという使い方- ハードウェアが無くてもシミュレーションできる - LEDというサンプル - GainerGUIクラス来週展示会とワークショップHands On -Prototyping Prototypes2009/09/10-13 @ AXIS Galleryhttp://www.iamas.ac.jp/project/ui/handson/index.html
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2009-09-01T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[<a href="http://www.his.gr.jp/his2009/">HIS2009</a>で小林茂氏によるFunnelワークショップに参加しました．<br>
+<img src="http://lh5.ggpht.com/_o2w50VUj0K0/Sp0T5gr5nfI/AAAAAAAAEw8/C64J2U-1vPs/s288/P9010296.JPG" alt="workshop"><br>
+<br>
+以下，そのときのメモです．<br>
+<br>
+<div class="readmore"><br>
+</p><h4>ハードウェアプロトタイピング</h4><p>- 長い時間がかかる<br>
+- 後で変更したくてもできない<br>
+- デザイナーと建設的な議論をしにくい<br>
+- 初心者にCやアセンブラは難しい<br>
+<br>
+</p><h4>Physical Computing</h4><p>- Gainer<br>
+&nbsp;&nbsp;- 2005年<br>
+&nbsp;&nbsp;- 自分たちが必要とするツールキット<br>
+&nbsp;&nbsp;- I/Oモジュールに限定<br>
+&nbsp;&nbsp;- ソフトウェア: AS2,3 MAX/MSP, Processing<br>
+<br>
+</p><h4>Gangu Project</h4><p>&nbsp;&nbsp;- <a href="http://www.cgarts.or.jp/scg/2007/prize/mountain/index.html">Mountain Guitar</a>: 傾きや震え，高さで音が変わる．<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- ほんとに音が出るエアギターみたいで面白い！<br>
+&nbsp;&nbsp;- <a href="http://www.vimeo.com/3942872">Jamming Gear</a>: ギアの組み合わせで音を出す<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 完成度高い！<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- AXISギャラリー<br>
+<br>
+</p><h4>作品の作り方</h4><p>- リサーチ<br>
+&nbsp;&nbsp;- Web, 店舗などでどういうものが求められているかを調査<br>
+- アイデアスケッチ: たくさん描く．20個．<br>
+&nbsp;&nbsp;- 描き方を決める．ペンや用紙を決める．インタラクションの部分は赤など．<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- これはよいかも！<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 細いペンで輪郭を描き，太いペンで強調したいところを描く<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- インタラクションするところを赤いペンで塗る<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- グレーで陰を付ける<br>
+&nbsp;&nbsp;- 色んな人が独自のやり方で描くと評価しづらい<br>
+- 評価: スケッチを壁に貼る<br>
+- ダーティプロトタイプ: 粘土．1/1サイズ．すぐにできる材料．アイデアをふくらませる．<br>
+- ビデオプロトタイプ: 実際に作ったらほんとに面白いのかシミュレーション<br>
+- Gainer<br>
+<br>
+</p><h4>ワークショップ</h4><p>- アイデアスケッチ: 実現できるかは考えない<br>
+- ハードウェアスケッチ: ケーブルとかごちゃごちゃしている．技術的にできるか調査．<br>
+- プロトタイプ: きっちり作る．無線化，塗装など．<br>
+- Bill Buxtonの「Design Funnel」<br>
+&nbsp;&nbsp;- スケッチから徐々にプロトタイプへ<br>
+<br>
+</p><h4>スケッチとプロトタイプの違い</h4><p>- スケッチは探求，質問，提案，曖昧<br>
+- 素早く，タイムリー，やすく，捨てられる材料，たくさん，必要最小限，提案と探索<br>
+&nbsp;&nbsp;- ペーパープロトタイプ<br>
+- 段ボール，スタイロフォーム，アクリル<br>
+<br>
+</p><h4>Funnel</h4><p>- 全てのユーザーの要求に応える単一のツールキットはない<br>
+- 2007年にはArduinoが広く使われていた<br>
+&nbsp;&nbsp;- GainerとArduinoなどをつなぐ．XBee, FIO．<br>
+- 「prototyping funnel」<br>
+- センサーの言葉をGUIプログラミングの言葉に<br>
+&nbsp;&nbsp;- 様々なフィルタ<br>
+- Funnel serverがハードウェアを抽象化<br>
+- AS3, Processing, Ruby (Rubyはあまりメンテしていない)<br>
+<br>
+</p><h4>大量生産を前提としないプロトタイピング</h4><p>- ワンオフ: 一品もの<br>
+&nbsp;&nbsp;- User Generated Device (UGD)<br>
+- Technology Skinning<br>
+&nbsp;&nbsp;- Microsoft Research<br>
+&nbsp;&nbsp;- Nicolas Villar<br>
+&nbsp;&nbsp;- ジャンク市のラジオの中身を自分の欲しい音楽プレーヤに改造<br>
+&nbsp;&nbsp;- Dragonfly<br>
+- メーカーはコンポーネントを提供<br>
+- どうやってオープンにするのか<br>
+&nbsp;&nbsp;- HTML5が参考になるかも: サーバとUIの分離<br>
+<br>
+</p><h4>pinFunnel</h4><p>- クラスを使わない<br>
+- ProcessingをベースにカスタマイズしたIDE<br>
+- 関数型だけ<br>
+<br>
+</p><h4>ボリューム</h4><p></p><pre>
+import processing.funnel.*;
+
+registerIOmodule(GAINER);
+potPin = namesAnalogpin(0);
+
+value(potPin);
+</pre><p><br>
+<br>
+</p><h4>光センサでウィンドウの色を変える</h4><p><img src="http://lh4.ggpht.com/_o2w50VUj0K0/Sp0T6CwKhaI/AAAAAAAAExA/UDvUbK56Uyw/s288/P9010298.JPG" alt="光センサ"><br>
+スケーリングを利用<br>
+</p><pre>
+setFilter(potPin);
+// 0~1の入力を0-255に変換する
+scaler(0, 1.0, 0, 255.0, LINEAR, true);
+</pre><p><br>
+<br>
+</p><h4>SetPointフィルタ</h4><p></p><pre>
+setPoint(0.3, 0.1);
+</pre><p><br>
+閾値0.3に0.1の不感帯を設定する<br>
+<br>
+</p><h4>Lシステムの木をセンサで動かすデモ</h4><p><br>
+</p><h4>physical x wonderfl</h4><p><a href="http://wonderfl.net/">http://wonderfl.net/</a><br>
+- wonderful<br>
+&nbsp;&nbsp;- カヤック<br>
+&nbsp;&nbsp;- オンラインのIDEでFlash作成<br>
+<br>
+<a href="http://physical.wonderfl.net/index_en.html">http://physical.wonderfl.net/index_en.html</a><br>
+- wonderflのFlashをfunnelで作った物理デバイスで操作<br>
+&nbsp;&nbsp;- ローカルにFunnel serverを立ち上げFlashと通信<br>
+&nbsp;&nbsp;- 動いている様子がすぐ分かるようにサンプルビデオも投稿できる<br>
+&nbsp;&nbsp;- マウスを前提に作られているプログラムをセンサ用に書きかえるという使い方<br>
+- ハードウェアが無くてもシミュレーションできる<br>
+&nbsp;&nbsp;- LEDというサンプル<br>
+&nbsp;&nbsp;- GainerGUIクラス<br>
+<br>
+</p><h4>来週展示会とワークショップ</h4><p>Hands On -Prototyping Prototypes<br>
+2009/09/10-13 @ AXIS Gallery<br>
+<a href="http://www.iamas.ac.jp/project/ui/handson/index.html">http://www.iamas.ac.jp/project/ui/handson/index.html</a><br>
+</div>]]>
+ </content:encoded>
+</item>
+
+<item rdf:about="http://cl.sappari.org/2009-08-29-1.html">
+ <title>家の前でシャム猫がゴロゴロしていた</title>
+ <link>http://cl.sappari.org/2009-08-29-1.html</link>
+ <description>
+  [シャム猫]
+ </description>
+ <dc:creator>Keisuke Kambara  &lt;kambara@sappari.org&gt;</dc:creator>
+ <dc:date>2009-08-29T23:59:59+09:00</dc:date>
+ <content:encoded>
+  <![CDATA[<img src="http://lh6.ggpht.com/_o2w50VUj0K0/Sp0UI-bdUYI/AAAAAAAAExg/p9NkGZVhCs0/s400/P8290288.JPG" alt="シャム猫"><br>
+]]>
+ </content:encoded>
+</item>
+
+</rdf:RDF>
